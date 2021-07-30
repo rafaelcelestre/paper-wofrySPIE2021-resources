@@ -293,7 +293,7 @@ if __name__=='__main__':
         L04 = b4ro.srwl_opt_setup_CRL_metrology(heightProfData, HPDmesh, delta, atten_len, _amp_coef=-amp_coef)
         logging.info('L04')
 
-        file_name = 'lens_04_residual_thickness.dat'
+        file_name = 'lens_05_residual_thickness.dat'
         heightProfData, HPDmesh = srwl_uti_read_intens_ascii(os.path.join(os.getcwd(), metrology, file_name))
         L05 = b4ro.srwl_opt_setup_CRL_metrology(heightProfData, HPDmesh, delta, atten_len, _amp_coef=-amp_coef)
         logging.info('L05')

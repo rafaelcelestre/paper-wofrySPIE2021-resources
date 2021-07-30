@@ -1,0 +1,21 @@
+INFO: - Performing Initial Electric Field calculation ... 
+INFO: Initial wavefront:
+INFO: Nx = 250, Ny = 250
+INFO: dx = 6.0000 um, dy = 6.0000 um
+INFO: range x = 1.5000 mm, range y = 1.5000 mm
+INFO: Rx = 98.998501, Ry = 98.998501
+INFO: Setting up beamline
+INFO: Image at: 0.995425
+INFO: L01
+INFO: L02
+INFO: L03
+INFO: L04
+INFO: L05
+INFO: - Simulating Electric Field Wavefront Propagation ... 
+INFO: Propagated wavefront:
+INFO: Nx = 1980, Ny = 1980
+INFO: dx = 0.0187 um, dy = 0.0187 um
+INFO: range x = 37.0987 um, range y = 37.0803 um
+INFO: Rx = 0.0000000000, Ry = 0.0000000000
+INFO: >> single electron calculations: done
+INFO: >>>> Elapsed time: 0h 0min 42.219921588897705s 
